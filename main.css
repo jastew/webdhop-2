@@ -26,7 +26,6 @@ select {
 .label__group {
   overflow: hidden;
   display: block;
-  background-color: #f00;
   border-radius: 3;
   border: 1px inset #ccc;
 }
