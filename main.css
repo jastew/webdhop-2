@@ -14,12 +14,17 @@ button, input[type="button"], input[type="reset"], input[type="submit"],
 }
 
 input,
-button, input[type="button"], input[type="reset"], input[type="submit"],
-select {
+button, input[type="button"], input[type="reset"], input[type="submit"] {
   box-sizing: border-box;
   display: inline-block;
   height: 48px;
   line-height: 48px;
+  vertical-align: middle;
+}
+
+select {
+  display: inline-block;
+  height: 48px;
   vertical-align: middle;
 }
 
