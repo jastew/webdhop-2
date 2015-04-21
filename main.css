@@ -18,7 +18,7 @@ button, input[type="button"], input[type="reset"], input[type="submit"],
 select {
   box-sizing: border-box;
   display: inline-block;
-  height: 44px;
+  line-height: 44px;
   vertical-align: middle;
 }
 
